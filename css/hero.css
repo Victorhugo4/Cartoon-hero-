@@ -1,0 +1,74 @@
+body{
+	margin: 0;
+	font-family: 'Helvetica' , 'Arial' , sans-serif;
+	font-size: 30px;
+	line-height: 35px
+}
+
+header{
+	background-color: #d14635;
+	text-align: center;
+	padding-top: 50px
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Geo', sans-serif;
+}
+
+header h1{
+	color: white;
+	font-size: 40px
+	 
+}
+
+header img{
+	
+    border-radius: 170px;
+    width: 300px;
+    border: 20px solid blue;
+}
+
+main{max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 
+ }
+
+ a{
+ 	color: blue;
+
+
+ }
+
+ main img{
+ 	max-width: 100%;
+
+ }
+
+ h2{
+
+ 	font-size: 50px;
+ 	color: red;
+ 	margin: 40px 0 10px;
+ }
+ a:hover{
+ 		color: white;
+ 		background-color: red;
+ }
+
+ footer{color: white;
+ 		padding: 20px;
+ 		margin: 0; 
+
+ }
+
+
+ footer{background-color: #d14635;
+		text-align: center;
+}
+
+p.caption{
+	color: blue;
+	font-style: italic;
+	margin-top: 0;
+}
